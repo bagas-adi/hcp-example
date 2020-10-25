@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImageInfo>
+    <ImageName>CentOS 7 Logo</ImageName>
+    <ImageMaintainer>Bagas</ImageMaintainer>
+    <ImageDescription>
+        This image is downloaded from internet. 
+    </ImageDescription>
+    <ImageType>PNG</ImageType>
+</ImageInfo>
